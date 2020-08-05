@@ -7,7 +7,4 @@ hello
 hi this is birajit and nice to meet you
 
 
-walla walla
-
-maja e maja
-
+This is a demo project
